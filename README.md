@@ -3,7 +3,7 @@ The data is sourced from:[https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE
 
 ## Cell clustering
 Identify markers for cell grouping based on literature and cluster single cells accordingly.
-![这是图片](/pics/umap.tiff)
+![这是图片](/pics/umap.png)
 
 
 ## Identify Differential expressed genes 
