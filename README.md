@@ -7,4 +7,6 @@ Identify markers for cell grouping based on literature and cluster single cells 
 
 
 ## Identify Differential expressed genes 
-Locate cells expressing both CCL2+CD74+CA9+ and CCL2+CD74+CA9-. Identify the genes expressed in CCL2+CD74+CA9+ cells and not expressed in CCL2+CD74+CA9- cells. Arrange these genes in descending order based on their level of expression.
+Locate cells expressing both CCL2+CD74+CA9+ and CCL2+CD74+CA9-.   
+Identify the genes expressed in CCL2+CD74+CA9+ cells and not expressed in CCL2+CD74+CA9- cells.   
+Arrange these genes in descending order based on their level of expression.  
